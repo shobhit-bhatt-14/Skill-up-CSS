@@ -10,13 +10,6 @@ body{
     justify-content: center;
     align-items: center;
 }
-@media screen and (max-width: 600px) {
-    .container{
-        position: relative;
-        height: 100vw;
-        width: 100vw;
-    }
-}
 .container{
     position: relative;
     height: 450px;
